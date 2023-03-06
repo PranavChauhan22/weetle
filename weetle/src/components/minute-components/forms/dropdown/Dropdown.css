@@ -1,0 +1,19 @@
+.dropdown_keys{
+    background-color: black;
+    color: white;
+    font-weight: bolder;
+    padding: var(--padding-primary);
+    border: 1px solid white;
+    border-radius: 5px;
+    text-align: center;
+}
+
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    text-indent: 1px;
+    text-overflow: '';
+  }
+  .dropdown{
+    margin: var(--margin-inner);
+  }

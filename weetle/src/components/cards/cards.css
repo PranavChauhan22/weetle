@@ -1,0 +1,31 @@
+.card_service {
+    width: 310px;
+    border: 1px solid #d8d7d7;
+    border-radius: 10px;
+    padding: 40px;
+    font-weight: bolder;
+    text-align: left;
+    margin-top: 20px;
+    margin: 20px;
+  }
+  .card_service_n {
+    width: 310px;
+    background: #ffffff;
+    box-shadow: 3.84px 3.84px 12.8px rgba(21, 46, 171, 0.13);
+    border-radius: 13.7681px;
+    padding: 40px;
+    font-weight: bolder;
+    text-align: left;
+    margin-top: 20px;
+    margin: 20px;
+  }
+  .card_service_head {
+    font-weight: bolder;
+    font-size: 24px;
+  }
+  .card_service_body {
+    margin-top: 20px;
+    line-height: 25px;
+    color: grey;
+    width: 240px;
+  }

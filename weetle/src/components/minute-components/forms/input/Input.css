@@ -1,0 +1,60 @@
+.input_field_text{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: var(--padding-primary);
+    
+}
+.input_field_email{
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: var(--padding-primary);
+    
+}
+::placeholder{
+    color: black;
+}
+input[type="file"]::file-selector-button{
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    border-radius: var(--border-radius-secondary);
+    padding: var(--padding-primary);
+    font-weight: bolder;
+}
+input[type="file"]{
+    border: 2px solid black;
+    border-radius: var(--border-radius-secondary);
+    padding: 2px;
+}
+
+
+.email{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    width: 200px;
+    margin: auto;
+    margin-top: var(--margin-inner);
+    margin-bottom: var(--margin-inner);
+    border-radius: var(--border-radius-secondary);
+
+}
+.icon_email{
+    font-size: 30px;
+    background-color: black;
+    margin-left: 8px;
+    color: white;
+    height: 30px;
+}
+.input_field_email{
+    margin-left: 5px;
+    
+}
+
+.input{
+    margin: var(--margin-inner);
+}
+.file{
+    margin: var(--margin-inner);
+}

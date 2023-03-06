@@ -1,0 +1,43 @@
+.button_component_primary{
+    background-color: black;
+    padding: var(--padding-primary);
+    color: white;
+    margin: auto;
+    width: 120px;
+    font-weight: bolder;
+    border-radius: var(--border-radius-secondary);
+    cursor: pointer;
+    margin-top: var(--margin-inner);
+    margin-bottom: var(--margin-inner);
+}
+.button_component_primary:hover{
+    border: 1px solid black;
+    background-color: white;
+    padding: var(--padding-primary);
+    color: black;
+    margin: auto;
+    width: 120px;
+    font-weight: bolder;
+    border-radius: var(--border-radius-secondary);
+}
+.button_component_secondary{
+   border: 1px solid black;
+    padding: var(--padding-primary);
+    color: black;
+    margin: auto;
+    width: 120px;
+    font-weight: bolder;
+    border-radius: var(--border-radius-secondary);
+    cursor: pointer;
+    margin-top: var(--margin-inner);
+    margin-bottom: var(--margin-inner);
+}
+.button_component_secondary:hover{
+    background-color: black;
+    padding: var(--padding-primary);
+    color: white;
+    margin: auto;
+    width: 120px;
+    font-weight: bolder;
+    border-radius: var(--border-radius-secondary);
+}

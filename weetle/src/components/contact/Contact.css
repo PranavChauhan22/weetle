@@ -1,0 +1,26 @@
+.contact{
+    background-color: var(--tertiary-color);
+    margin: var(--margin-outer);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: var(--padding-secondary);
+    border-radius: var(--border-radius);
+
+}
+
+.contact_right_section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    flex-wrap: wrap;
+   
+}
+.margin_addition{
+    margin: 10px;
+}
+.contact_left_section{
+    text-align: left;
+}

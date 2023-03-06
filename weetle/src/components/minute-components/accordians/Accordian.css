@@ -1,0 +1,36 @@
+.accordian_wrap{
+    border: 2px solid black;
+    padding: var(--padding-primary);
+    width: 60vw; 
+    margin: auto;
+    text-align: left;
+    font-weight: bold;
+    border-radius: var(--border-radius-secondary);
+    cursor: pointer;
+}
+.accordian_body{
+    background-color: black;
+    color: white;
+    padding: var(--padding-primary);
+    border-radius: var(--border-radius-secondary);
+}
+.accordian_wrap_secondary{
+    background-color: black;
+    color: white;
+    padding: var(--padding-primary);
+    width: 60vw;
+    margin: auto;
+    text-align: left;
+    font-weight: bold;
+    border-radius: var(--border-radius-secondary);
+    cursor: pointer;
+}
+.accordian_body_secondary{
+    background-color: white;
+    color: black;
+    padding: var(--padding-primary);
+    border-radius: var(--border-radius-secondary);
+}
+.accordian{
+    margin: var(--margin-inner);
+}

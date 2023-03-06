@@ -1,0 +1,47 @@
+:root{
+    --margin-outer:60px;
+    --margin-inner:5px;
+    --padding-primary:10px;
+    --border-radius:20px;
+    --primary-color:black;
+    --secondary-color:rgba(128, 128, 128, 0.513);
+    --tertiary-color:#f2f5f7;
+    --margin-adjuster:20px;
+    --padding-secondary:60px;
+    --border-radius-secondary:5px;
+}
+.make_extra_bold{
+    font-weight: bolder;
+}
+.primary_btn{
+    background-color: black;
+    width: 80px;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.primary_btn:hover{
+    background-color: white;
+    width: 80px;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+    border: 1px solid black;
+}
+.capsule_head{
+    font-weight: bolder;
+    
+}
+.capsule_body{
+    font-size: 15px;
+}
+.pre_process_head{
+    font-size: 30px;
+    font-weight: bolder;
+    text-align: left;
+    margin-left: var(--margin-outer);
+    margin-top: var(--margin-outer);
+}

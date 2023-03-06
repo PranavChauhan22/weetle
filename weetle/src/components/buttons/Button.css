@@ -1,0 +1,46 @@
+.primary_button{
+    background-color: black;
+    color: white;
+    font-weight: bolder;
+    width: 150px;
+    cursor: pointer;
+    padding: 20px;
+}
+.primary_button:hover{
+    background-color: transparent;
+    border:1px solid black;
+    color: black;
+    font-weight: bolder;
+    width: 150px;
+    padding: 19px;
+}
+.secondary_button{
+    border:1px solid black;
+    color: black;
+    font-weight: bolder;
+    cursor: pointer;
+    width: 150px;
+    padding: 19px;
+}
+.secondary_button:hover{
+    background-color: black;
+    color: white;
+    font-weight: bolder;
+    width: 150px;
+    padding: 20px;
+}
+.tertiary_button{
+    border:1px solid black;
+    color: black;
+    font-weight: bolder;
+    cursor: pointer;
+    width: 200px;
+    padding: 10px;
+}
+.tertiary_button:hover{
+    background-color: black;
+    color: white;
+    font-weight: bolder;
+    padding: 10px;
+    width: 200px;
+}
