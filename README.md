@@ -2,7 +2,7 @@
 <img src="weetle/src/components/images/logos/weetle_black_logo (1).png" width=100%/>
 
 ## Documentation
-Head over to [WEETLE documentation](https://weetle-evolve.web.app/) for more smooth information flow.
+Head over to [WEETLE documentation](https://weetle-evolve.web.app/) for more detailed & smooth information flow.
 
 ## Get your WEETLE website within 24 hours
 Fill out this [form](https://bit.ly/weetle_evolve) and get your customized WEETLE website within 24 hours :)
@@ -19,6 +19,10 @@ git clone <repo-url>
 cd ./weetle/weetle
 npm add
 npm start
+```
+
+```js title="Important"
+Only few components of WEETLE library are mentioned here, switch over to WEETLE documentation to explore more.
 ```
 
 # Key elements
